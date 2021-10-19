@@ -10,7 +10,7 @@ Você deve montar um sistema simples de carrinho, Onde nele você terá 3 págin
   - Listagem de produtos com preços
   - Possibilidade de adicionar produtos ao carrinho
   - Botão para ir até o carrinho
-- Carrinho -> Página onde você vê os produtos que estão adicionados e que possui um botão para finalizar a compra.
+- Carrinho -> Página onde você vê os produtos que estão adicionados, podendo remover produtos. Também possui um botão para finalizar a compra.
 - Página de compra com sucesso ou erro -> Você não precisará implementar nenhum formulário de compra, então, depois que a compra for finalizada, se o valor da compra for maior que 70, a compra será um sucesso, senão, ela irá falhar, essa página deverá dar essa resposta ao cliente.
 
 ## Produtos
